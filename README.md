@@ -1,11 +1,11 @@
 # Vrinda-Store-Data-Analysis (Interactive Dashboard Using MS Excel)
-### Project Objective
+## Project Objective
 Vrinda store wants to create an annual sales report for 2022. So the Vrinda store, can understand their customers and grow more sales in 2023. 
 
-### Data-set used
+## Data-set used
 - <p> Vrinda Store <a href = 'https://github.com/Etishasri/Vrinda-Store-Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx%20-%20Vrinda%20Store.xlsx'> Dataset </a> </p>
 
-### Questions (KPI’s)
+## Questions (KPI’s)
 1.	Compare the sales and the orders using single chart.
 2.	Which month got the highest sales and orders.
 3.	Who purchased more – men or women in 2022?
