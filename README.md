@@ -14,7 +14,7 @@ Vrinda store wants to create an annual sales report for 2022. So the Vrinda stor
 6.	Relation between age and gender based on number of orders.
 7.	Which channel is contributing to maximum sales?
 8.	Which is the highest selling category?
-- Dashboard Interaction <a href = "https://github.com/Etishasri/Vrinda-Store-Data-Analysis-Dashboard/blob/main/vrinda%20store%20analysis%20dashboard.png"> View Dashboard </a>
+- Dashboard Interaction <a href = 'https://github.com/Etishasri/Vrinda-Store-Data-Analysis-Dashboard/blob/main/vrinda_store_analysis_dashboard.png' > View Dashboard </a>
 
 ## Process
 1.	Cleaned and prepared data by using features like Remove, Duplicates and Find & Replace to clean the data.
